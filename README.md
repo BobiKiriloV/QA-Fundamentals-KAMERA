@@ -1,0 +1,2 @@
+# QA-Fundamentals-KAMERA
+TRENIROVKI
